@@ -1,0 +1,21 @@
+#######################################
+# Syntax Coloring Map FloppyMusic
+#######################################
+
+#######################################
+# Datatypes (KEYWORD1)
+#######################################
+
+FloppyMusic  KEYWORD1
+
+#######################################
+# Methods and Functions (KEYWORD2)
+#######################################
+begin KEYWORD2
+set_freq KEYWORD2
+reset KEYWORD2
+print_debug_log KEYWORD2
+
+#######################################
+# Constants (LITERAL1)
+#######################################
