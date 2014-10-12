@@ -1761,21 +1761,33 @@ You are welcome to use this library for commercial purposes. For attribution, we
 <pinref part="FLP1" gate="-12" pin="S"/>
 <pinref part="GND8" gate="1" pin="GND"/>
 <wire x1="175.26" y1="60.96" x2="177.8" y2="60.96" width="0.1524" layer="91"/>
+<pinref part="FLP1" gate="-14" pin="S"/>
+<wire x1="177.8" y1="60.96" x2="177.8" y2="55.88" width="0.1524" layer="91"/>
+<junction x="177.8" y="60.96"/>
 </segment>
 <segment>
 <pinref part="FLP2" gate="-12" pin="S"/>
 <pinref part="GND9" gate="1" pin="GND"/>
 <wire x1="220.98" y1="60.96" x2="223.52" y2="60.96" width="0.1524" layer="91"/>
+<pinref part="FLP2" gate="-14" pin="S"/>
+<wire x1="223.52" y1="60.96" x2="223.52" y2="55.88" width="0.1524" layer="91"/>
+<junction x="223.52" y="60.96"/>
 </segment>
 <segment>
 <pinref part="FLP3" gate="-12" pin="S"/>
 <pinref part="GND10" gate="1" pin="GND"/>
 <wire x1="266.7" y1="60.96" x2="269.24" y2="60.96" width="0.1524" layer="91"/>
+<pinref part="FLP3" gate="-14" pin="S"/>
+<wire x1="269.24" y1="60.96" x2="269.24" y2="55.88" width="0.1524" layer="91"/>
+<junction x="269.24" y="60.96"/>
 </segment>
 <segment>
 <pinref part="FLP4" gate="-12" pin="S"/>
 <pinref part="GND11" gate="1" pin="GND"/>
 <wire x1="312.42" y1="60.96" x2="314.96" y2="60.96" width="0.1524" layer="91"/>
+<pinref part="FLP4" gate="-14" pin="S"/>
+<wire x1="314.96" y1="60.96" x2="314.96" y2="55.88" width="0.1524" layer="91"/>
+<junction x="314.96" y="60.96"/>
 </segment>
 <segment>
 <wire x1="101.6" y1="53.34" x2="88.9" y2="53.34" width="0.1524" layer="91"/>
